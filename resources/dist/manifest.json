@@ -1,0 +1,22 @@
+{
+  "frontend.css": "autostyles/frontend.min.css",
+  "frontend.js": "autofrontend.min.js",
+  "admin.css": "autostyles/admin.min.css",
+  "admin.js": "autoadmin.min.js",
+  "login.css": "autostyles/login.min.css",
+  "login.js": "autologin.min.js",
+  "editor.css": "autostyles/editor.min.css",
+  "editor.js": "autoeditor.min.js",
+  "frontend.css.map": "autofrontend.css.map",
+  "frontend.min.css.map": "autostyles/frontend.min.css.map",
+  "frontend.min.js.map": "autofrontend.min.js.map",
+  "admin.css.map": "autoadmin.css.map",
+  "admin.min.css.map": "autostyles/admin.min.css.map",
+  "admin.min.js.map": "autoadmin.min.js.map",
+  "login.css.map": "autologin.css.map",
+  "login.min.css.map": "autostyles/login.min.css.map",
+  "login.min.js.map": "autologin.min.js.map",
+  "editor.css.map": "autoeditor.css.map",
+  "editor.min.css.map": "autostyles/editor.min.css.map",
+  "editor.min.js.map": "autoeditor.min.js.map"
+}

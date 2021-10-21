@@ -1,0 +1,24 @@
+{
+    "sbcThemeConfig": {
+        "themeName": "gameplay-mobiglass",
+        "version": "1.0.0",
+        "types": [ "portal", "organization-guild", "tournaments" ],
+        "styles": ["clear-white", "red",  "green"],
+        "assets": {
+          "media": {
+            "images": {
+              "rtx.jpg": {
+                "name": "rtx.jpg",
+                "type": "jpg",
+                "alt": "upcomming rtx series"
+              },
+              "drake-kraken.jpg": {
+                "name": "drake-kraken.jpg",
+                "type": "jpg",
+                "alt": "drake-kraken"
+              }
+            }
+          }
+        }
+      }
+}

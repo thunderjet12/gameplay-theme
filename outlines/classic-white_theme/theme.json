@@ -1,0 +1,20 @@
+{
+    "theme-name": "classic-white_theme",
+    "types": {
+        "portal": {
+            "styles": {
+                "white-classic-2015": {},
+                "white-classic-full-2015": {},
+                "black-classic-2015": {},
+                "black-classic-full-2015": {},
+                "black-modern-full-2015": {}
+
+            },
+            "config": {
+                
+            }
+            
+
+        }
+    }
+}
